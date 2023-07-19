@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
   <a href="#项目官方交流群"><img src="https://img.shields.io/badge/项目群-交流-red.svg" alt="项目群交流"></a>
-  <a href="https://space.bilibili.com/198434865/channel/collectiondetail?sid=435119"><img src="https://img.shields.io/badge/免费项目-视频-green.svg" alt="Bilibili"></a>
   <a href="https://gitee.com/zhongfucheng/austin"><img src="https://gitee.com/zhongfucheng/austin/badge/star.svg?theme=dark" alt="Gitee Starts"></a>
   <a href="https://gitee.com/zhongfucheng/austin"><img src="https://gitee.com/zhongfucheng/austin/badge/fork.svg?theme=dark" alt="Gitee Starts"></a>
   <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/forks/ZhongFuCheng3y/austin.svg?style=flat&label=GithubFork"></a> 
@@ -37,9 +36,7 @@
 
 :fire:项目在线演示地址：[http://139.9.66.219:3000/](http://139.9.66.219:3000/)
 
-:fire:项目视频我正在[Bilibili](https://space.bilibili.com/198434865/channel/collectiondetail?sid=435119)更新（**三连越多，更新越有动力哟**）
-
-:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
 
 ## 消息推送平台austin介绍
 
@@ -77,7 +74,7 @@
 
 austin项目**强依赖**`MySQL`/`Redis`/(**大概需要2G内存**)，**弱依赖**`kafka`/`prometheus`/`graylog`/`flink`/`xxl-job`/`apollo`/`hive`(**完全部署所有的服务，大概16G内存**)。如果缺少相关的组件可戳：[安装相关组件教程](INSTALL.md)。
 
-> 实在想要`clone`项目后不用自己部署环境直接在**本地**启动`debug`，我这提供了[股东服务](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)，**直连**部署好的服务器。
+> 实在想要`clone`项目后不用自己部署环境直接在**本地**启动`debug`，我这提供了[股东服务](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)，**直连**部署好的服务器。
 
 **1**、austin目前使用的MySQL版本**5.7x**，如果你使用的MySQL版本8.0，注意改变`pom.xml`所依赖的版本以及对应的连接信息。
 
@@ -112,7 +109,8 @@ austin项目官方交流群已经超过了两百人，添加我的个人微信 j
 
 ## 项目文档
 
-:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
 
 
-![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
